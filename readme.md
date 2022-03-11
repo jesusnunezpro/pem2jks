@@ -8,7 +8,7 @@ This was tested with [AWS global bundle](https://docs.aws.amazon.com/AmazonRDS/l
 
 This proof of concept was written for Windows and requires Python 3.8 or better.
 
-**settings.py** must contain a resolvable paths to keytool executable, keystore, and PEM bundle.
+**settings.py** must contain resolvable paths to keytool executable, keystore, and PEM bundle.
 
 This script only uses packages from the standard library.
 
